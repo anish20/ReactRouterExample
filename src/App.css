@@ -1,0 +1,10 @@
+
+ul{list-style-type: none;padding: 10; margin: 0;}
+ul li{display: inline-block;margin: 0 10px ;}
+ul li a{text-decoration: none;}
+ul li a:hover{
+  color:red;
+}
+.active{
+  color:green;
+}
